@@ -1,0 +1,12 @@
+D:\AABM\2-7-2023\Libro\bin\Debug\Libro.exe.config
+D:\AABM\2-7-2023\Libro\bin\Debug\Libro.exe
+D:\AABM\2-7-2023\Libro\bin\Debug\Libro.pdb
+D:\AABM\2-7-2023\Libro\obj\Debug\Libro.csproj.AssemblyReference.cache
+D:\AABM\2-7-2023\Libro\obj\Debug\Libro.csproj.SuggestedBindingRedirects.cache
+D:\AABM\2-7-2023\Libro\obj\Debug\Libro.csproj.ResolveComReference.cache
+D:\AABM\2-7-2023\Libro\obj\Debug\Libro.Form1.resources
+D:\AABM\2-7-2023\Libro\obj\Debug\Libro.Properties.Resources.resources
+D:\AABM\2-7-2023\Libro\obj\Debug\Libro.csproj.GenerateResource.cache
+D:\AABM\2-7-2023\Libro\obj\Debug\Libro.csproj.CoreCompileInputs.cache
+D:\AABM\2-7-2023\Libro\obj\Debug\Libro.exe
+D:\AABM\2-7-2023\Libro\obj\Debug\Libro.pdb
